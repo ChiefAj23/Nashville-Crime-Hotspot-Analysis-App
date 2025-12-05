@@ -1,0 +1,2616 @@
+[
+  {
+    "id": 0,
+    "latitude": 36.15327158833784,
+    "longitude": -86.74822782744165,
+    "radius_meters": 18520.019245811265,
+    "total_incidents": 107836,
+    "high_risk_count": 15244,
+    "medium_risk_count": 15413,
+    "low_risk_count": 77179,
+    "total_risk_score": 153737.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 23257,
+      "TRAFFIC VIOLATION": 10161,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 8635,
+      "BURGLARY - NON-RESIDENCE": 8039,
+      "SAFETY HAZARD": 6595
+    },
+    "explanation": "This area has a high crime risk with 15244 high-risk incidents, 15413 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 2,
+    "latitude": 36.200274957698824,
+    "longitude": -86.61308629441623,
+    "radius_meters": 3284.5537170491752,
+    "total_incidents": 2364,
+    "high_risk_count": 486,
+    "medium_risk_count": 418,
+    "low_risk_count": 1460,
+    "total_risk_score": 3754.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 581,
+      "BURGLARY - NON-RESIDENCE": 271,
+      "TRAFFIC VIOLATION": 199,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 179,
+      "THEFT": 136
+    },
+    "explanation": "This area has a high crime risk with 486 high-risk incidents, 418 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, traffic violation. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 16,
+    "latitude": 36.174146887595164,
+    "longitude": -86.6058790864308,
+    "radius_meters": 2333.112783994206,
+    "total_incidents": 2233,
+    "high_risk_count": 252,
+    "medium_risk_count": 339,
+    "low_risk_count": 1642,
+    "total_risk_score": 3076.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 496,
+      "SAFETY HAZARD": 207,
+      "TRAFFIC VIOLATION": 187,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 174,
+      "THEFT": 116
+    },
+    "explanation": "This area has a high crime risk with 252 high-risk incidents, 339 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, safety hazard, traffic violation. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 15,
+    "latitude": 36.149026633165825,
+    "longitude": -86.63311708542713,
+    "radius_meters": 3260.1642194296933,
+    "total_incidents": 1990,
+    "high_risk_count": 275,
+    "medium_risk_count": 291,
+    "low_risk_count": 1424,
+    "total_risk_score": 2831.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 392,
+      "TRAFFIC VIOLATION": 242,
+      "COMMUNITY POLICING ACTIVITY": 221,
+      "SAFETY HAZARD": 210,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 136
+    },
+    "explanation": "This area has a high crime risk with 275 high-risk incidents, 291 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 17,
+    "latitude": 36.202757286432174,
+    "longitude": -86.69044824120604,
+    "radius_meters": 1863.982953813423,
+    "total_incidents": 1990,
+    "high_risk_count": 211,
+    "medium_risk_count": 255,
+    "low_risk_count": 1524,
+    "total_risk_score": 2667.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 454,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 232,
+      "COMMUNITY POLICING ACTIVITY": 184,
+      "BURGLARY - NON-RESIDENCE": 160,
+      "THEFT": 145
+    },
+    "explanation": "This area has a high crime risk with 211 high-risk incidents, 255 medium-risk incidents recorded. Most common incidents include: traffic violation, want officer for investigation / assista, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 12,
+    "latitude": 36.205341169724775,
+    "longitude": -86.82523451834861,
+    "radius_meters": 2856.2851209384926,
+    "total_incidents": 1744,
+    "high_risk_count": 300,
+    "medium_risk_count": 284,
+    "low_risk_count": 1160,
+    "total_risk_score": 2628.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 430,
+      "COMMUNITY POLICING ACTIVITY": 238,
+      "BURGLARY - NON-RESIDENCE": 115,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 99,
+      "TRAFFIC VIOLATION": 91
+    },
+    "explanation": "This area has a high crime risk with 300 high-risk incidents, 284 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 1,
+    "latitude": 36.051921875,
+    "longitude": -86.74193958333332,
+    "radius_meters": 2878.4307961656004,
+    "total_incidents": 960,
+    "high_risk_count": 200,
+    "medium_risk_count": 134,
+    "low_risk_count": 626,
+    "total_risk_score": 1494.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 271,
+      "COMMUNITY POLICING ACTIVITY": 125,
+      "BURGLARY - NON-RESIDENCE": 89,
+      "BURGLARY - RESIDENCE": 69,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 68
+    },
+    "explanation": "This area has a high crime risk with 200 high-risk incidents, 134 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 10,
+    "latitude": 36.05008879919274,
+    "longitude": -86.61597073662966,
+    "radius_meters": 1760.183067371382,
+    "total_incidents": 991,
+    "high_risk_count": 144,
+    "medium_risk_count": 205,
+    "low_risk_count": 642,
+    "total_risk_score": 1484.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 251,
+      "THEFT": 77,
+      "BURGLARY - RESIDENCE": 70,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 68,
+      "INVESTIGATE 911 HANG-UP CALL": 67
+    },
+    "explanation": "This area has a high crime risk with 144 high-risk incidents, 205 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, burglary residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 5,
+    "latitude": 36.32053103448276,
+    "longitude": -86.7079183908046,
+    "radius_meters": 1466.4681676207451,
+    "total_incidents": 870,
+    "high_risk_count": 160,
+    "medium_risk_count": 87,
+    "low_risk_count": 623,
+    "total_risk_score": 1277.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 185,
+      "BURGLARY - NON-RESIDENCE": 98,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 87,
+      "TRAFFIC VIOLATION": 57,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 36
+    },
+    "explanation": "This area has a high crime risk with 160 high-risk incidents, 87 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 22,
+    "latitude": 36.22566899302094,
+    "longitude": -86.69854336989033,
+    "radius_meters": 2061.7573638915896,
+    "total_incidents": 1003,
+    "high_risk_count": 54,
+    "medium_risk_count": 124,
+    "low_risk_count": 825,
+    "total_risk_score": 1235.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 229,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 174,
+      "BUSINESS CHECK": 131,
+      "SAFETY HAZARD": 96,
+      "COMMUNITY POLICING ACTIVITY": 72
+    },
+    "explanation": "This area has a high crime risk with 54 high-risk incidents, 124 medium-risk incidents recorded. Most common incidents include: traffic violation, want officer for investigation / assista, business check. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 35,
+    "latitude": 36.18438044914134,
+    "longitude": -86.67567107001322,
+    "radius_meters": 865.3839927925077,
+    "total_incidents": 757,
+    "high_risk_count": 113,
+    "medium_risk_count": 58,
+    "low_risk_count": 586,
+    "total_risk_score": 1041.0,
+    "severity": "High",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 191,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 134,
+      "BURGLARY - NON-RESIDENCE": 69,
+      "FIGHT / ASSAULT": 27,
+      "THEFT": 26
+    },
+    "explanation": "This area has a high crime risk with 113 high-risk incidents, 58 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 4,
+    "latitude": 36.1105244648318,
+    "longitude": -86.9229648318043,
+    "radius_meters": 1637.9045619531432,
+    "total_incidents": 654,
+    "high_risk_count": 60,
+    "medium_risk_count": 77,
+    "low_risk_count": 517,
+    "total_risk_score": 851.0,
+    "severity": "High",
+    "top_incidents": {
+      "BUSINESS CHECK": 174,
+      "TRAFFIC VIOLATION": 92,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 91,
+      "SAFETY HAZARD": 51,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 44
+    },
+    "explanation": "This area has a high crime risk with 60 high-risk incidents, 77 medium-risk incidents recorded. Most common incidents include: business check, traffic violation, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 49,
+    "latitude": 36.050530956848036,
+    "longitude": -86.59860225140712,
+    "radius_meters": 1610.9973768218163,
+    "total_incidents": 533,
+    "high_risk_count": 89,
+    "medium_risk_count": 116,
+    "low_risk_count": 328,
+    "total_risk_score": 827.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 198,
+      "THEFT": 43,
+      "DISORDERLY PERSON": 43,
+      "BURGLARY - NON-RESIDENCE": 43,
+      "INVESTIGATE 911 HANG-UP CALL": 26
+    },
+    "explanation": "This area has a high crime risk with 89 high-risk incidents, 116 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, disorderly person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 59,
+    "latitude": 36.212271889400924,
+    "longitude": -86.83928571428571,
+    "radius_meters": 1219.8712957445387,
+    "total_incidents": 434,
+    "high_risk_count": 124,
+    "medium_risk_count": 80,
+    "low_risk_count": 230,
+    "total_risk_score": 762.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 107,
+      "BURGLARY - NON-RESIDENCE": 68,
+      "COMMUNITY POLICING ACTIVITY": 51,
+      "THEFT": 37,
+      "BURGLARY - RESIDENCE": 28
+    },
+    "explanation": "This area has a high crime risk with 124 high-risk incidents, 80 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 41,
+    "latitude": 36.25914315352697,
+    "longitude": -86.65162033195021,
+    "radius_meters": 1154.4082567864984,
+    "total_incidents": 482,
+    "high_risk_count": 69,
+    "medium_risk_count": 62,
+    "low_risk_count": 351,
+    "total_risk_score": 682.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 75,
+      "TRAFFIC VIOLATION": 56,
+      "BURGLARY - NON-RESIDENCE": 30,
+      "THEFT": 22,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 20
+    },
+    "explanation": "This area has a high crime risk with 69 high-risk incidents, 62 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 36,
+    "latitude": 36.07777075098814,
+    "longitude": -86.92467984189724,
+    "radius_meters": 1271.6464734246565,
+    "total_incidents": 506,
+    "high_risk_count": 56,
+    "medium_risk_count": 62,
+    "low_risk_count": 388,
+    "total_risk_score": 680.0,
+    "severity": "High",
+    "top_incidents": {
+      "BUSINESS CHECK": 115,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 110,
+      "SAFETY HAZARD": 40,
+      "TRAFFIC VIOLATION": 35,
+      "BURGLARY - RESIDENCE": 28
+    },
+    "explanation": "This area has a high crime risk with 56 high-risk incidents, 62 medium-risk incidents recorded. Most common incidents include: business check, want officer for investigation / assista, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 24,
+    "latitude": 36.03945614035087,
+    "longitude": -86.78234649122807,
+    "radius_meters": 863.9900163811294,
+    "total_incidents": 456,
+    "high_risk_count": 29,
+    "medium_risk_count": 52,
+    "low_risk_count": 375,
+    "total_risk_score": 566.0,
+    "severity": "High",
+    "top_incidents": {
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 99,
+      "SAFETY HAZARD": 90,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 84,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 33,
+      "THEFT": 30
+    },
+    "explanation": "This area has a high crime risk with 29 high-risk incidents, 52 medium-risk incidents recorded. Most common incidents include: vehicle accident property damage, safety hazard, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 37,
+    "latitude": 36.08531097560975,
+    "longitude": -86.76259552845528,
+    "radius_meters": 1539.912641070412,
+    "total_incidents": 492,
+    "high_risk_count": 24,
+    "medium_risk_count": 13,
+    "low_risk_count": 455,
+    "total_risk_score": 553.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 179,
+      "SAFETY HAZARD": 126,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 66,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 44,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 28
+    },
+    "explanation": "This area has a high crime risk with 24 high-risk incidents, 13 medium-risk incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 50,
+    "latitude": 36.31956053811658,
+    "longitude": -86.86832735426007,
+    "radius_meters": 994.434061237247,
+    "total_incidents": 446,
+    "high_risk_count": 37,
+    "medium_risk_count": 29,
+    "low_risk_count": 380,
+    "total_risk_score": 549.0,
+    "severity": "High",
+    "top_incidents": {
+      "SAFETY HAZARD": 82,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 60,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 54,
+      "TRAFFIC VIOLATION": 38,
+      "BURGLARY - NON-RESIDENCE": 32
+    },
+    "explanation": "This area has a high crime risk with 37 high-risk incidents, 29 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 79,
+    "latitude": 36.08157349397592,
+    "longitude": -86.77303132530122,
+    "radius_meters": 1063.9546966001328,
+    "total_incidents": 415,
+    "high_risk_count": 31,
+    "medium_risk_count": 37,
+    "low_risk_count": 347,
+    "total_risk_score": 514.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 63,
+      "INVESTIGATE 911 HANG-UP CALL": 19,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 17,
+      "COMMUNITY POLICING ACTIVITY": 17,
+      "TRAFFIC VIOLATION": 16
+    },
+    "explanation": "This area has a high crime risk with 31 high-risk incidents, 37 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 34,
+    "latitude": 36.10229777777778,
+    "longitude": -86.86935555555554,
+    "radius_meters": 875.0480147664069,
+    "total_incidents": 225,
+    "high_risk_count": 132,
+    "medium_risk_count": 15,
+    "low_risk_count": 78,
+    "total_risk_score": 504.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 91,
+      "BURGLARY - RESIDENCE": 40,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 22,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 19,
+      "TRAFFIC VIOLATION": 14
+    },
+    "explanation": "This area has a high crime risk with 132 high-risk incidents, 15 medium-risk incidents recorded. Most common incidents include: burglary non-residence, burglary residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 9,
+    "latitude": 36.081769423558896,
+    "longitude": -86.95267919799498,
+    "radius_meters": 1184.459524410358,
+    "total_incidents": 399,
+    "high_risk_count": 26,
+    "medium_risk_count": 26,
+    "low_risk_count": 347,
+    "total_risk_score": 477.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 142,
+      "BUSINESS CHECK": 55,
+      "SAFETY HAZARD": 45,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 44,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 23
+    },
+    "explanation": "This area has a high crime risk with 26 high-risk incidents, 26 medium-risk incidents recorded. Most common incidents include: traffic violation, business check, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 6,
+    "latitude": 36.2909263803681,
+    "longitude": -86.7381717791411,
+    "radius_meters": 890.144966677706,
+    "total_incidents": 326,
+    "high_risk_count": 54,
+    "medium_risk_count": 27,
+    "low_risk_count": 245,
+    "total_risk_score": 461.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 44,
+      "BURGLARY - NON-RESIDENCE": 27,
+      "COMMUNITY POLICING ACTIVITY": 26,
+      "TRAFFIC VIOLATION": 15,
+      "SHOTS FIRED": 14
+    },
+    "explanation": "This area has a high crime risk with 54 high-risk incidents, 27 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 23,
+    "latitude": 36.18215175097276,
+    "longitude": -86.84297276264591,
+    "radius_meters": 878.2763053645515,
+    "total_incidents": 257,
+    "high_risk_count": 67,
+    "medium_risk_count": 63,
+    "low_risk_count": 127,
+    "total_risk_score": 454.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 72,
+      "BURGLARY - NON-RESIDENCE": 26,
+      "INVESTIGATE 911 HANG-UP CALL": 26,
+      "BURGLARY - RESIDENCE": 19,
+      "THEFT": 14
+    },
+    "explanation": "This area has a high crime risk with 67 high-risk incidents, 63 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 38,
+    "latitude": 36.03610486891385,
+    "longitude": -86.63867041198502,
+    "radius_meters": 710.4168169436829,
+    "total_incidents": 267,
+    "high_risk_count": 39,
+    "medium_risk_count": 56,
+    "low_risk_count": 172,
+    "total_risk_score": 401.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 59,
+      "THEFT": 30,
+      "COMMUNITY POLICING ACTIVITY": 30,
+      "BURGLARY - NON-RESIDENCE": 25,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 25
+    },
+    "explanation": "This area has a high crime risk with 39 high-risk incidents, 56 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 54,
+    "latitude": 36.01668316831683,
+    "longitude": -86.62198349834982,
+    "radius_meters": 1069.404467195054,
+    "total_incidents": 303,
+    "high_risk_count": 33,
+    "medium_risk_count": 10,
+    "low_risk_count": 260,
+    "total_risk_score": 379.0,
+    "severity": "High",
+    "top_incidents": {
+      "SAFETY HAZARD": 86,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 63,
+      "TRAFFIC VIOLATION": 46,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 31,
+      "BURGLARY - NON-RESIDENCE": 30
+    },
+    "explanation": "This area has a high crime risk with 33 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, traffic violation. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 32,
+    "latitude": 36.0347564102564,
+    "longitude": -86.58417094017095,
+    "radius_meters": 1174.1755992447106,
+    "total_incidents": 234,
+    "high_risk_count": 46,
+    "medium_risk_count": 52,
+    "low_risk_count": 136,
+    "total_risk_score": 378.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 75,
+      "BURGLARY - RESIDENCE": 37,
+      "THEFT": 20,
+      "INVESTIGATE 911 HANG-UP CALL": 17,
+      "MISSING PERSON": 15
+    },
+    "explanation": "This area has a high crime risk with 46 high-risk incidents, 52 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 28,
+    "latitude": 36.18248648648649,
+    "longitude": -86.63897297297301,
+    "radius_meters": 529.1592963893357,
+    "total_incidents": 222,
+    "high_risk_count": 45,
+    "medium_risk_count": 56,
+    "low_risk_count": 121,
+    "total_risk_score": 368.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 41,
+      "BURGLARY - NON-RESIDENCE": 33,
+      "THEFT": 33,
+      "BUSINESS CHECK": 24,
+      "SUSPICIOUS PERSON": 12
+    },
+    "explanation": "This area has a high crime risk with 45 high-risk incidents, 56 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 21,
+    "latitude": 36.28200632911392,
+    "longitude": -86.73004430379747,
+    "radius_meters": 1144.2551162897046,
+    "total_incidents": 316,
+    "high_risk_count": 19,
+    "medium_risk_count": 13,
+    "low_risk_count": 284,
+    "total_risk_score": 367.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 104,
+      "SAFETY HAZARD": 83,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 39,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 29,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 16
+    },
+    "explanation": "This area has a high crime risk with 19 high-risk incidents, 13 medium-risk incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 68,
+    "latitude": 36.06203703703704,
+    "longitude": -86.77359259259258,
+    "radius_meters": 919.5064577699223,
+    "total_incidents": 297,
+    "high_risk_count": 24,
+    "medium_risk_count": 7,
+    "low_risk_count": 266,
+    "total_risk_score": 352.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 98,
+      "SAFETY HAZARD": 52,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 29,
+      "BURGLARY - NON-RESIDENCE": 18,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 15
+    },
+    "explanation": "This area has a high crime risk with 24 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 43,
+    "latitude": 36.24768229166667,
+    "longitude": -86.67241145833334,
+    "radius_meters": 1054.30974655237,
+    "total_incidents": 192,
+    "high_risk_count": 35,
+    "medium_risk_count": 40,
+    "low_risk_count": 117,
+    "total_risk_score": 302.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 66,
+      "BURGLARY - RESIDENCE": 29,
+      "INVESTIGATE 911 HANG-UP CALL": 13,
+      "TRAFFIC VIOLATION": 12,
+      "THEFT": 11
+    },
+    "explanation": "This area has a high crime risk with 35 high-risk incidents, 40 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 46,
+    "latitude": 36.2428783068783,
+    "longitude": -86.73626455026452,
+    "radius_meters": 1034.4154858678326,
+    "total_incidents": 189,
+    "high_risk_count": 42,
+    "medium_risk_count": 17,
+    "low_risk_count": 130,
+    "total_risk_score": 290.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 39,
+      "BURGLARY - NON-RESIDENCE": 32,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 27,
+      "SAFETY HAZARD": 25,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 16
+    },
+    "explanation": "This area has a high crime risk with 42 high-risk incidents, 17 medium-risk incidents recorded. Most common incidents include: traffic violation, burglary non-residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 25,
+    "latitude": 36.243756345177665,
+    "longitude": -86.63664974619289,
+    "radius_meters": 1076.4045086126323,
+    "total_incidents": 197,
+    "high_risk_count": 29,
+    "medium_risk_count": 27,
+    "low_risk_count": 141,
+    "total_risk_score": 282.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 56,
+      "TRAFFIC VIOLATION": 33,
+      "BURGLARY - NON-RESIDENCE": 15,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 14,
+      "SAFETY HAZARD": 12
+    },
+    "explanation": "This area has a high crime risk with 29 high-risk incidents, 27 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 53,
+    "latitude": 36.012885135135136,
+    "longitude": -86.70083108108109,
+    "radius_meters": 715.1789036595874,
+    "total_incidents": 148,
+    "high_risk_count": 50,
+    "medium_risk_count": 22,
+    "low_risk_count": 76,
+    "total_risk_score": 270.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 25,
+      "BURGLARY - NON-RESIDENCE": 23,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 20,
+      "BUSINESS CHECK": 19,
+      "COMMUNITY POLICING ACTIVITY": 13
+    },
+    "explanation": "This area has a high crime risk with 50 high-risk incidents, 22 medium-risk incidents recorded. Most common incidents include: burglary residence, burglary non-residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 73,
+    "latitude": 36.103884615384615,
+    "longitude": -86.66842948717948,
+    "radius_meters": 765.8537535995501,
+    "total_incidents": 156,
+    "high_risk_count": 45,
+    "medium_risk_count": 14,
+    "low_risk_count": 97,
+    "total_risk_score": 260.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 42,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 23,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 23,
+      "TRAFFIC VIOLATION": 16,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 11
+    },
+    "explanation": "This area has a high crime risk with 45 high-risk incidents, 14 medium-risk incidents recorded. Most common incidents include: burglary non-residence, want officer for investigation / assista, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 121,
+    "latitude": 36.19603301886793,
+    "longitude": -86.86199999999998,
+    "radius_meters": 441.10817598126135,
+    "total_incidents": 212,
+    "high_risk_count": 12,
+    "medium_risk_count": 21,
+    "low_risk_count": 179,
+    "total_risk_score": 257.0,
+    "severity": "High",
+    "top_incidents": {
+      "THEFT": 20,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 14,
+      "BURGLARY - NON-RESIDENCE": 10,
+      "TRAFFIC VIOLATION": 2,
+      "PERSON WITH WEAPON": 1
+    },
+    "explanation": "This area has a high crime risk with 12 high-risk incidents, 21 medium-risk incidents recorded. Most common incidents include: theft, want officer for investigation / assista, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 97,
+    "latitude": 36.10906194690265,
+    "longitude": -86.69782300884955,
+    "radius_meters": 571.1511690673418,
+    "total_incidents": 226,
+    "high_risk_count": 8,
+    "medium_risk_count": 12,
+    "low_risk_count": 206,
+    "total_risk_score": 254.0,
+    "severity": "Low",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 167,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 34,
+      "SUSPICIOUS PERSON": 7,
+      "THEFT": 5,
+      "SHOTS FIRED": 4
+    },
+    "explanation": "This area has a low crime risk with 8 high-risk incidents, 12 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, suspicious person. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 51,
+    "latitude": 36.2178280254777,
+    "longitude": -86.62469426751593,
+    "radius_meters": 828.4266718283302,
+    "total_incidents": 157,
+    "high_risk_count": 30,
+    "medium_risk_count": 33,
+    "low_risk_count": 94,
+    "total_risk_score": 250.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 32,
+      "TRAFFIC VIOLATION": 30,
+      "DISORDERLY PERSON": 13,
+      "BURGLARY - NON-RESIDENCE": 11,
+      "BURGLARY - RESIDENCE": 11
+    },
+    "explanation": "This area has a high crime risk with 30 high-risk incidents, 33 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, disorderly person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 69,
+    "latitude": 36.27712290502793,
+    "longitude": -86.7972122905028,
+    "radius_meters": 662.4763777287737,
+    "total_incidents": 179,
+    "high_risk_count": 15,
+    "medium_risk_count": 16,
+    "low_risk_count": 148,
+    "total_risk_score": 225.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 43,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 31,
+      "SAFETY HAZARD": 30,
+      "TRAFFIC VIOLATION": 18,
+      "BURGLARY - NON-RESIDENCE": 9
+    },
+    "explanation": "This area has a high crime risk with 15 high-risk incidents, 16 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, vehicle accident property damage, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 20,
+    "latitude": 36.078620689655175,
+    "longitude": -86.90922167487685,
+    "radius_meters": 961.1974868259772,
+    "total_incidents": 203,
+    "high_risk_count": 6,
+    "medium_risk_count": 8,
+    "low_risk_count": 189,
+    "total_risk_score": 223.0,
+    "severity": "Low",
+    "top_incidents": {
+      "BUSINESS CHECK": 151,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 21,
+      "COMMUNITY POLICING ACTIVITY": 6,
+      "THEFT": 5,
+      "INVESTIGATE 911 HANG-UP CALL": 2
+    },
+    "explanation": "This area has a low crime risk with 6 high-risk incidents, 8 medium-risk incidents recorded. Most common incidents include: business check, want officer for investigation / assista, community policing activity. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 13,
+    "latitude": 36.0651056910569,
+    "longitude": -86.93698373983742,
+    "radius_meters": 795.0495807297799,
+    "total_incidents": 123,
+    "high_risk_count": 30,
+    "medium_risk_count": 16,
+    "low_risk_count": 77,
+    "total_risk_score": 199.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 28,
+      "BURGLARY - NON-RESIDENCE": 20,
+      "COMMUNITY POLICING ACTIVITY": 14,
+      "BUSINESS CHECK": 8,
+      "INVESTIGATE 911 HANG-UP CALL": 8
+    },
+    "explanation": "This area has a high crime risk with 30 high-risk incidents, 16 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 116,
+    "latitude": 36.15820555555556,
+    "longitude": -86.57688333333333,
+    "radius_meters": 447.2239040687092,
+    "total_incidents": 180,
+    "high_risk_count": 6,
+    "medium_risk_count": 2,
+    "low_risk_count": 172,
+    "total_risk_score": 194.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 10,
+      "BURGLARY - RESIDENCE": 6,
+      "TRAFFIC VIOLATION": 5,
+      "DANGEROUS / INJURED ANIMAL": 3,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3
+    },
+    "explanation": "This area has a low crime risk with 6 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 103,
+    "latitude": 36.23215254237287,
+    "longitude": -86.62489830508474,
+    "radius_meters": 545.0009927977518,
+    "total_incidents": 177,
+    "high_risk_count": 4,
+    "medium_risk_count": 7,
+    "low_risk_count": 166,
+    "total_risk_score": 192.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 25,
+      "COMMUNITY POLICING ACTIVITY": 9,
+      "TRAFFIC VIOLATION": 8,
+      "SAFETY HAZARD": 6,
+      "DISORDERLY PERSON": 4
+    },
+    "explanation": "This area has a low crime risk with 4 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 19,
+    "latitude": 36.2109375,
+    "longitude": -86.86586805555555,
+    "radius_meters": 568.2856965280841,
+    "total_incidents": 144,
+    "high_risk_count": 16,
+    "medium_risk_count": 7,
+    "low_risk_count": 121,
+    "total_risk_score": 183.0,
+    "severity": "High",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 18,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 16,
+      "BURGLARY - NON-RESIDENCE": 13,
+      "SAFETY HAZARD": 6,
+      "BURGLARY - RESIDENCE": 3
+    },
+    "explanation": "This area has a high crime risk with 16 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 39,
+    "latitude": 36.07614473684211,
+    "longitude": -86.97175,
+    "radius_meters": 1105.021590231764,
+    "total_incidents": 152,
+    "high_risk_count": 10,
+    "medium_risk_count": 10,
+    "low_risk_count": 132,
+    "total_risk_score": 182.0,
+    "severity": "Low",
+    "top_incidents": {
+      "BUSINESS CHECK": 51,
+      "TRAFFIC VIOLATION": 31,
+      "SAFETY HAZARD": 21,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 10,
+      "BURGLARY - RESIDENCE": 9
+    },
+    "explanation": "This area has a low crime risk with 10 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: business check, traffic violation, safety hazard. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 84,
+    "latitude": 36.09132352941176,
+    "longitude": -86.8026544117647,
+    "radius_meters": 841.1735461653037,
+    "total_incidents": 136,
+    "high_risk_count": 19,
+    "medium_risk_count": 6,
+    "low_risk_count": 111,
+    "total_risk_score": 180.0,
+    "severity": "High",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 36,
+      "BURGLARY - RESIDENCE": 17,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 12,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 10,
+      "TRAFFIC VIOLATION": 6
+    },
+    "explanation": "This area has a high crime risk with 19 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: community policing activity, burglary residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 62,
+    "latitude": 36.04550877192983,
+    "longitude": -86.58952631578947,
+    "radius_meters": 828.5978733508484,
+    "total_incidents": 114,
+    "high_risk_count": 17,
+    "medium_risk_count": 31,
+    "low_risk_count": 66,
+    "total_risk_score": 179.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 32,
+      "THEFT": 12,
+      "MISSING PERSON": 10,
+      "INVESTIGATE 911 HANG-UP CALL": 10,
+      "SAFETY HAZARD": 9
+    },
+    "explanation": "This area has a high crime risk with 17 high-risk incidents, 31 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, missing person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 99,
+    "latitude": 36.045144578313256,
+    "longitude": -86.9569578313253,
+    "radius_meters": 656.763058194854,
+    "total_incidents": 166,
+    "high_risk_count": 4,
+    "medium_risk_count": 5,
+    "low_risk_count": 157,
+    "total_risk_score": 179.0,
+    "severity": "Low",
+    "top_incidents": {
+      "BUSINESS CHECK": 11,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 11,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "COMMUNITY POLICING ACTIVITY": 5,
+      "INVESTIGATE 911 HANG-UP CALL": 4
+    },
+    "explanation": "This area has a low crime risk with 4 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: business check, want officer for investigation / assista, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 81,
+    "latitude": 36.083236486486484,
+    "longitude": -86.86712837837837,
+    "radius_meters": 555.738874598489,
+    "total_incidents": 148,
+    "high_risk_count": 11,
+    "medium_risk_count": 1,
+    "low_risk_count": 136,
+    "total_risk_score": 171.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 74,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 26,
+      "COMMUNITY POLICING ACTIVITY": 23,
+      "BURGLARY - RESIDENCE": 11,
+      "FIXED POST": 8
+    },
+    "explanation": "This area has a high crime risk with 11 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: traffic violation, want officer for investigation / assista, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 107,
+    "latitude": 36.29599999999999,
+    "longitude": -86.72700000000002,
+    "radius_meters": 1.4987415954782242e-09,
+    "total_incidents": 99,
+    "high_risk_count": 16,
+    "medium_risk_count": 38,
+    "low_risk_count": 45,
+    "total_risk_score": 169.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 35,
+      "INVESTIGATE 911 HANG-UP CALL": 15,
+      "DISORDERLY PERSON": 11,
+      "THEFT": 10,
+      "BURGLARY - RESIDENCE": 9
+    },
+    "explanation": "This area has a high crime risk with 16 high-risk incidents, 38 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, disorderly person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 102,
+    "latitude": 36.322161490683236,
+    "longitude": -86.85501242236026,
+    "radius_meters": 632.9167253647615,
+    "total_incidents": 161,
+    "high_risk_count": 3,
+    "medium_risk_count": 0,
+    "low_risk_count": 158,
+    "total_risk_score": 167.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 111,
+      "DANGEROUS / INJURED ANIMAL": 20,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 7,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 5
+    },
+    "explanation": "This area has a low crime risk with 3 high-risk incidents recorded. Most common incidents include: safety hazard, dangerous / injured animal, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 3,
+    "latitude": 36.020752293577985,
+    "longitude": -86.65388073394494,
+    "radius_meters": 722.198982116143,
+    "total_incidents": 109,
+    "high_risk_count": 13,
+    "medium_risk_count": 29,
+    "low_risk_count": 67,
+    "total_risk_score": 164.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 35,
+      "INVESTIGATE 911 HANG-UP CALL": 15,
+      "MISSING PERSON": 13,
+      "BURGLARY - RESIDENCE": 8,
+      "THEFT": 7
+    },
+    "explanation": "This area has a high crime risk with 13 high-risk incidents, 29 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, missing person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 127,
+    "latitude": 36.05481679389313,
+    "longitude": -86.91936641221375,
+    "radius_meters": 172.66995855698886,
+    "total_incidents": 131,
+    "high_risk_count": 12,
+    "medium_risk_count": 6,
+    "low_risk_count": 113,
+    "total_risk_score": 161.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 48,
+      "COMMUNITY POLICING ACTIVITY": 35,
+      "BURGLARY - NON-RESIDENCE": 10,
+      "SAFETY HAZARD": 9,
+      "TRAFFIC VIOLATION": 7
+    },
+    "explanation": "This area has a high crime risk with 12 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 52,
+    "latitude": 36.191051724137935,
+    "longitude": -86.70769827586207,
+    "radius_meters": 678.7480912541447,
+    "total_incidents": 116,
+    "high_risk_count": 15,
+    "medium_risk_count": 9,
+    "low_risk_count": 92,
+    "total_risk_score": 155.0,
+    "severity": "High",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 53,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 27,
+      "BURGLARY - RESIDENCE": 11,
+      "SUSPICIOUS PERSON": 4,
+      "VEHICLE BLOCKING RIGHT OF WAY": 3
+    },
+    "explanation": "This area has a high crime risk with 15 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, burglary residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 61,
+    "latitude": 36.040307692307685,
+    "longitude": -86.76425641025641,
+    "radius_meters": 624.0876149876863,
+    "total_incidents": 78,
+    "high_risk_count": 28,
+    "medium_risk_count": 17,
+    "low_risk_count": 33,
+    "total_risk_score": 151.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 20,
+      "BURGLARY - NON-RESIDENCE": 14,
+      "BURGLARY - RESIDENCE": 12,
+      "INVESTIGATE 911 HANG-UP CALL": 5,
+      "THEFT": 5
+    },
+    "explanation": "This area has a high crime risk with 28 high-risk incidents, 17 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, burglary residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 63,
+    "latitude": 36.017690909090916,
+    "longitude": -86.60874545454548,
+    "radius_meters": 411.04841688013113,
+    "total_incidents": 55,
+    "high_risk_count": 47,
+    "medium_risk_count": 2,
+    "low_risk_count": 6,
+    "total_risk_score": 151.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 47,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4,
+      "INVESTIGATE 911 HANG-UP CALL": 2,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 1,
+      "TRAFFIC VIOLATION": 1
+    },
+    "explanation": "This area has a high crime risk with 47 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: burglary non-residence, want officer for investigation / assista, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 44,
+    "latitude": 36.2216984126984,
+    "longitude": -86.78207936507937,
+    "radius_meters": 531.336741492581,
+    "total_incidents": 63,
+    "high_risk_count": 34,
+    "medium_risk_count": 11,
+    "low_risk_count": 18,
+    "total_risk_score": 142.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 34,
+      "TRAFFIC VIOLATION": 9,
+      "INVESTIGATE 911 HANG-UP CALL": 6,
+      "SUSPICIOUS PERSON": 3,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a high crime risk with 34 high-risk incidents, 11 medium-risk incidents recorded. Most common incidents include: burglary non-residence, traffic violation, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 48,
+    "latitude": 36.04020833333334,
+    "longitude": -86.81710833333334,
+    "radius_meters": 651.6679563562742,
+    "total_incidents": 120,
+    "high_risk_count": 10,
+    "medium_risk_count": 2,
+    "low_risk_count": 108,
+    "total_risk_score": 142.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 21,
+      "TRAFFIC VIOLATION": 9,
+      "COMMUNITY POLICING ACTIVITY": 5,
+      "BURGLARY - RESIDENCE": 4,
+      "SAFETY HAZARD": 4
+    },
+    "explanation": "This area has a low crime risk with 10 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, community policing activity. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 65,
+    "latitude": 36.17685999999999,
+    "longitude": -86.89500000000002,
+    "radius_meters": 95.62763691307053,
+    "total_incidents": 50,
+    "high_risk_count": 42,
+    "medium_risk_count": 4,
+    "low_risk_count": 4,
+    "total_risk_score": 138.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 42,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4,
+      "THEFT": 2,
+      "SUSPICIOUS PERSON": 1,
+      "INVESTIGATE 911 HANG-UP CALL": 1
+    },
+    "explanation": "This area has a high crime risk with 42 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: burglary non-residence, want officer for investigation / assista, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 66,
+    "latitude": 36.050999999999995,
+    "longitude": -86.901,
+    "radius_meters": 7.900874738066843e-10,
+    "total_incidents": 120,
+    "high_risk_count": 5,
+    "medium_risk_count": 7,
+    "low_risk_count": 108,
+    "total_risk_score": 137.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 50,
+      "COMMUNITY POLICING ACTIVITY": 39,
+      "FIXED POST": 15,
+      "SUSPICIOUS PERSON": 5,
+      "BURGLARY - NON-RESIDENCE": 5
+    },
+    "explanation": "This area has a low crime risk with 5 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, fixed post. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 80,
+    "latitude": 36.31162962962963,
+    "longitude": -86.88327777777778,
+    "radius_meters": 629.3224815583241,
+    "total_incidents": 54,
+    "high_risk_count": 38,
+    "medium_risk_count": 6,
+    "low_risk_count": 10,
+    "total_risk_score": 136.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 28,
+      "BURGLARY - RESIDENCE": 8,
+      "DANGEROUS / INJURED ANIMAL": 3,
+      "INVESTIGATE 911 HANG-UP CALL": 3,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a high crime risk with 38 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: burglary non-residence, burglary residence, dangerous / injured animal. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 57,
+    "latitude": 36.27171666666667,
+    "longitude": -86.76773333333334,
+    "radius_meters": 667.3551693257803,
+    "total_incidents": 60,
+    "high_risk_count": 31,
+    "medium_risk_count": 9,
+    "low_risk_count": 20,
+    "total_risk_score": 131.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 29,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 12,
+      "THEFT": 4,
+      "DISORDERLY PERSON": 2,
+      "SHOTS FIRED": 2
+    },
+    "explanation": "This area has a high crime risk with 31 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: burglary residence, want officer for investigation / assista, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 45,
+    "latitude": 36.08373636363637,
+    "longitude": -86.89199090909095,
+    "radius_meters": 534.4096577814689,
+    "total_incidents": 110,
+    "high_risk_count": 8,
+    "medium_risk_count": 4,
+    "low_risk_count": 98,
+    "total_risk_score": 130.0,
+    "severity": "Low",
+    "top_incidents": {
+      "BUSINESS CHECK": 83,
+      "COMMUNITY POLICING ACTIVITY": 4,
+      "BURGLARY - NON-RESIDENCE": 4,
+      "BURGLARY - RESIDENCE": 4,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a low crime risk with 8 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: business check, community policing activity, burglary non-residence. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 130,
+    "latitude": 36.034000000000006,
+    "longitude": -86.64994117647059,
+    "radius_meters": 84.63038574215862,
+    "total_incidents": 85,
+    "high_risk_count": 20,
+    "medium_risk_count": 4,
+    "low_risk_count": 61,
+    "total_risk_score": 129.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 27,
+      "HOLDUP / ROBBERY": 13,
+      "SHOOTING": 7,
+      "FIGHT / ASSAULT": 5,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 4
+    },
+    "explanation": "This area has a high crime risk with 20 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, holdup / robbery, shooting. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 70,
+    "latitude": 36.17121839080458,
+    "longitude": -86.8722988505747,
+    "radius_meters": 548.7527979939091,
+    "total_incidents": 87,
+    "high_risk_count": 12,
+    "medium_risk_count": 15,
+    "low_risk_count": 60,
+    "total_risk_score": 126.0,
+    "severity": "High",
+    "top_incidents": {
+      "SAFETY HAZARD": 13,
+      "BURGLARY - NON-RESIDENCE": 12,
+      "THEFT": 9,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8
+    },
+    "explanation": "This area has a high crime risk with 12 high-risk incidents, 15 medium-risk incidents recorded. Most common incidents include: safety hazard, burglary non-residence, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 89,
+    "latitude": 36.06808045977013,
+    "longitude": -86.57949425287359,
+    "radius_meters": 740.1410595119247,
+    "total_incidents": 87,
+    "high_risk_count": 9,
+    "medium_risk_count": 20,
+    "low_risk_count": 58,
+    "total_risk_score": 125.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 23,
+      "DISORDERLY PERSON": 10,
+      "BURGLARY - RESIDENCE": 8,
+      "MISSING PERSON": 8,
+      "SAFETY HAZARD": 7
+    },
+    "explanation": "This area has a high crime risk with 9 high-risk incidents, 20 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, disorderly person, burglary residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 18,
+    "latitude": 36.086076923076924,
+    "longitude": -86.75224999999999,
+    "radius_meters": 586.0229151706313,
+    "total_incidents": 52,
+    "high_risk_count": 34,
+    "medium_risk_count": 3,
+    "low_risk_count": 15,
+    "total_risk_score": 123.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 30,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "SAFETY HAZARD": 3,
+      "SHOTS FIRED": 2
+    },
+    "explanation": "This area has a high crime risk with 34 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: burglary non-residence, want officer for investigation / assista, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 60,
+    "latitude": 36.09215555555556,
+    "longitude": -86.88663333333332,
+    "radius_meters": 596.3695842936494,
+    "total_incidents": 90,
+    "high_risk_count": 11,
+    "medium_risk_count": 5,
+    "low_risk_count": 74,
+    "total_risk_score": 117.0,
+    "severity": "High",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 45,
+      "BURGLARY - RESIDENCE": 11,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 11,
+      "COMMUNITY POLICING ACTIVITY": 5,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 3
+    },
+    "explanation": "This area has a high crime risk with 11 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: traffic violation, burglary residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 14,
+    "latitude": 36.207406250000005,
+    "longitude": -86.810109375,
+    "radius_meters": 618.6781976640137,
+    "total_incidents": 64,
+    "high_risk_count": 18,
+    "medium_risk_count": 11,
+    "low_risk_count": 35,
+    "total_risk_score": 111.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 17,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 13,
+      "SAFETY HAZARD": 6,
+      "TRAFFIC VIOLATION": 6,
+      "VEHICLE BLOCKING RIGHT OF WAY": 4
+    },
+    "explanation": "This area has a high crime risk with 18 high-risk incidents, 11 medium-risk incidents recorded. Most common incidents include: burglary residence, want officer for investigation / assista, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 29,
+    "latitude": 36.06254666666668,
+    "longitude": -86.91724000000002,
+    "radius_meters": 495.65773742302315,
+    "total_incidents": 75,
+    "high_risk_count": 13,
+    "medium_risk_count": 9,
+    "low_risk_count": 53,
+    "total_risk_score": 110.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 21,
+      "BUSINESS CHECK": 13,
+      "TRAFFIC VIOLATION": 8,
+      "THEFT": 5,
+      "BURGLARY - NON-RESIDENCE": 5
+    },
+    "explanation": "This area has a high crime risk with 13 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, business check, traffic violation. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 56,
+    "latitude": 36.174012820512814,
+    "longitude": -86.64866666666666,
+    "radius_meters": 392.673981255318,
+    "total_incidents": 78,
+    "high_risk_count": 4,
+    "medium_risk_count": 17,
+    "low_risk_count": 57,
+    "total_risk_score": 103.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 14,
+      "TRAFFIC VIOLATION": 10,
+      "SAFETY HAZARD": 9,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "INVESTIGATE 911 HANG-UP CALL": 6
+    },
+    "explanation": "This area has a medium crime risk with 4 high-risk incidents, 17 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, traffic violation, safety hazard. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 91,
+    "latitude": 36.101287234042545,
+    "longitude": -86.93379787234042,
+    "radius_meters": 483.3434092532592,
+    "total_incidents": 94,
+    "high_risk_count": 3,
+    "medium_risk_count": 2,
+    "low_risk_count": 89,
+    "total_risk_score": 102.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 33,
+      "SAFETY HAZARD": 20,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 18,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 10,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4
+    },
+    "explanation": "This area has a low crime risk with 3 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 31,
+    "latitude": 36.2070375,
+    "longitude": -86.66498749999998,
+    "radius_meters": 669.1939583429512,
+    "total_incidents": 80,
+    "high_risk_count": 7,
+    "medium_risk_count": 5,
+    "low_risk_count": 68,
+    "total_risk_score": 99.0,
+    "severity": "Low",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 47,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 17,
+      "SHOTS FIRED": 5,
+      "DANGEROUS / INJURED ANIMAL": 2,
+      "SUSPICIOUS PERSON": 2
+    },
+    "explanation": "This area has a low crime risk with 7 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, shots fired. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 101,
+    "latitude": 36.23042187499999,
+    "longitude": -86.812046875,
+    "radius_meters": 397.8915603842591,
+    "total_incidents": 64,
+    "high_risk_count": 4,
+    "medium_risk_count": 23,
+    "low_risk_count": 37,
+    "total_risk_score": 95.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 12,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 11,
+      "INVESTIGATE 911 HANG-UP CALL": 11,
+      "THEFT": 9,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 7
+    },
+    "explanation": "This area has a high crime risk with 4 high-risk incidents, 23 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, vehicle accident personal injury, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 117,
+    "latitude": 36.31151851851852,
+    "longitude": -86.70008641975308,
+    "radius_meters": 475.75230256423134,
+    "total_incidents": 81,
+    "high_risk_count": 3,
+    "medium_risk_count": 7,
+    "low_risk_count": 71,
+    "total_risk_score": 94.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 19,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 17,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 13,
+      "TRAFFIC VIOLATION": 10,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8
+    },
+    "explanation": "This area has a low crime risk with 3 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident personal injury, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 33,
+    "latitude": 36.20873076923076,
+    "longitude": -86.71592307692309,
+    "radius_meters": 660.1793978614139,
+    "total_incidents": 78,
+    "high_risk_count": 5,
+    "medium_risk_count": 4,
+    "low_risk_count": 69,
+    "total_risk_score": 92.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 39,
+      "COMMUNITY POLICING ACTIVITY": 8,
+      "TRAFFIC VIOLATION": 6,
+      "SAFETY HAZARD": 5,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5
+    },
+    "explanation": "This area has a low crime risk with 5 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 128,
+    "latitude": 36.112741935483854,
+    "longitude": -86.63548387096776,
+    "radius_meters": 198.51159688512257,
+    "total_incidents": 62,
+    "high_risk_count": 13,
+    "medium_risk_count": 4,
+    "low_risk_count": 45,
+    "total_risk_score": 92.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 38,
+      "BURGLARY - NON-RESIDENCE": 13,
+      "BUSINESS CHECK": 5,
+      "SUSPICIOUS PERSON": 3,
+      "TRAFFIC VIOLATION": 2
+    },
+    "explanation": "This area has a high crime risk with 13 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary non-residence, business check. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 27,
+    "latitude": 36.219058823529416,
+    "longitude": -86.8727843137255,
+    "radius_meters": 451.60388077100424,
+    "total_incidents": 51,
+    "high_risk_count": 18,
+    "medium_risk_count": 3,
+    "low_risk_count": 30,
+    "total_risk_score": 90.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 15,
+      "TRAFFIC VIOLATION": 14,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 9,
+      "SAFETY HAZARD": 4,
+      "THEFT": 2
+    },
+    "explanation": "This area has a high crime risk with 18 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: burglary residence, traffic violation, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 85,
+    "latitude": 36.057785714285714,
+    "longitude": -86.94758571428572,
+    "radius_meters": 418.1412353907954,
+    "total_incidents": 70,
+    "high_risk_count": 2,
+    "medium_risk_count": 10,
+    "low_risk_count": 58,
+    "total_risk_score": 84.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "BUSINESS CHECK": 44,
+      "DISORDERLY PERSON": 6,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "THEFT": 2
+    },
+    "explanation": "This area has a medium crime risk with 2 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: business check, disorderly person, want officer for investigation / assista. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 114,
+    "latitude": 36.172,
+    "longitude": -86.86400000000002,
+    "radius_meters": 1.2755943936959696e-09,
+    "total_incidents": 43,
+    "high_risk_count": 19,
+    "medium_risk_count": 3,
+    "low_risk_count": 21,
+    "total_risk_score": 84.0,
+    "severity": "High",
+    "top_incidents": {
+      "HOLDUP / ROBBERY": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "BUSINESS CHECK": 4,
+      "FIGHT / ASSAULT": 2
+    },
+    "explanation": "This area has a high crime risk with 19 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: holdup / robbery, vehicle accident property damage, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 98,
+    "latitude": 36.19036585365854,
+    "longitude": -86.5928780487805,
+    "radius_meters": 437.83489674195135,
+    "total_incidents": 41,
+    "high_risk_count": 19,
+    "medium_risk_count": 3,
+    "low_risk_count": 19,
+    "total_risk_score": 82.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 18,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 7,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "SAFETY HAZARD": 3,
+      "INVESTIGATE 911 HANG-UP CALL": 2
+    },
+    "explanation": "This area has a high crime risk with 19 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: burglary residence, want officer for investigation / assista, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 118,
+    "latitude": 36.155000000000015,
+    "longitude": -86.91999999999999,
+    "radius_meters": 2.0309603191407405e-09,
+    "total_incidents": 68,
+    "high_risk_count": 6,
+    "medium_risk_count": 2,
+    "low_risk_count": 60,
+    "total_risk_score": 82.0,
+    "severity": "Low",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 56,
+      "BURGLARY - NON-RESIDENCE": 6,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4,
+      "INVESTIGATE 911 HANG-UP CALL": 1,
+      "SUSPICIOUS PERSON": 1
+    },
+    "explanation": "This area has a low crime risk with 6 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: community policing activity, burglary non-residence, want officer for investigation / assista. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 83,
+    "latitude": 36.021826086956516,
+    "longitude": -86.74178260869566,
+    "radius_meters": 439.8189898141969,
+    "total_incidents": 46,
+    "high_risk_count": 17,
+    "medium_risk_count": 1,
+    "low_risk_count": 28,
+    "total_risk_score": 81.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 11,
+      "SAFETY HAZARD": 10,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "BURGLARY - NON-RESIDENCE": 5
+    },
+    "explanation": "This area has a high crime risk with 17 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: burglary residence, safety hazard, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 92,
+    "latitude": 36.273999999999994,
+    "longitude": -86.89999999999998,
+    "radius_meters": 2.6675550198860414e-09,
+    "total_incidents": 75,
+    "high_risk_count": 0,
+    "medium_risk_count": 6,
+    "low_risk_count": 69,
+    "total_risk_score": 81.0,
+    "severity": "Low",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 55,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 9,
+      "SUSPICIOUS PERSON": 5,
+      "DANGEROUS / INJURED ANIMAL": 2,
+      "THEFT": 1
+    },
+    "explanation": "This area has a low crime risk with 6 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, suspicious person. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 64,
+    "latitude": 36.258296296296294,
+    "longitude": -86.76611111111114,
+    "radius_meters": 594.2902213587136,
+    "total_incidents": 54,
+    "high_risk_count": 2,
+    "medium_risk_count": 19,
+    "low_risk_count": 33,
+    "total_risk_score": 77.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 25,
+      "INVESTIGATE 911 HANG-UP CALL": 7,
+      "THEFT": 6,
+      "DISORDERLY PERSON": 4,
+      "MISSING PERSON": 3
+    },
+    "explanation": "This area has a high crime risk with 2 high-risk incidents, 19 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 86,
+    "latitude": 36.177,
+    "longitude": -86.87699999999998,
+    "radius_meters": 1.275513000905496e-09,
+    "total_incidents": 56,
+    "high_risk_count": 0,
+    "medium_risk_count": 21,
+    "low_risk_count": 35,
+    "total_risk_score": 77.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 29,
+      "THEFT": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "DISORDERLY PERSON": 5,
+      "INVESTIGATE 911 HANG-UP CALL": 2
+    },
+    "explanation": "This area has a high crime risk with 21 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 108,
+    "latitude": 36.29858904109589,
+    "longitude": -86.81164383561644,
+    "radius_meters": 613.8224105689987,
+    "total_incidents": 73,
+    "high_risk_count": 1,
+    "medium_risk_count": 2,
+    "low_risk_count": 70,
+    "total_risk_score": 77.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 29,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 14,
+      "TRAFFIC VIOLATION": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4
+    },
+    "explanation": "This area has a low crime risk with 1 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident personal injury, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 7,
+    "latitude": 36.236931818181816,
+    "longitude": -86.65527272727272,
+    "radius_meters": 354.7619836263071,
+    "total_incidents": 44,
+    "high_risk_count": 14,
+    "medium_risk_count": 4,
+    "low_risk_count": 26,
+    "total_risk_score": 76.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 13,
+      "BURGLARY - RESIDENCE": 10,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 3,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "SAFETY HAZARD": 2
+    },
+    "explanation": "This area has a high crime risk with 14 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, vehicle accident personal injury. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 30,
+    "latitude": 36.29391666666667,
+    "longitude": -86.65839583333333,
+    "radius_meters": 173.66655751152808,
+    "total_incidents": 48,
+    "high_risk_count": 9,
+    "medium_risk_count": 10,
+    "low_risk_count": 29,
+    "total_risk_score": 76.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 15,
+      "SHOTS FIRED": 7,
+      "SUSPICIOUS PERSON": 6,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 2,
+      "DISORDERLY PERSON": 2
+    },
+    "explanation": "This area has a high crime risk with 9 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, shots fired, suspicious person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 71,
+    "latitude": 36.27009523809524,
+    "longitude": -86.66530952380953,
+    "radius_meters": 470.2601487263106,
+    "total_incidents": 42,
+    "high_risk_count": 10,
+    "medium_risk_count": 11,
+    "low_risk_count": 21,
+    "total_risk_score": 73.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 12,
+      "THEFT": 6,
+      "BURGLARY - NON-RESIDENCE": 5,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "BURGLARY - RESIDENCE": 3
+    },
+    "explanation": "This area has a high crime risk with 10 high-risk incidents, 11 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 8,
+    "latitude": 36.00882608695652,
+    "longitude": -86.62536956521738,
+    "radius_meters": 436.4735857777821,
+    "total_incidents": 46,
+    "high_risk_count": 9,
+    "medium_risk_count": 6,
+    "low_risk_count": 31,
+    "total_risk_score": 70.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 14,
+      "BURGLARY - RESIDENCE": 7,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 7,
+      "SAFETY HAZARD": 3,
+      "THEFT": 3
+    },
+    "explanation": "This area has a high crime risk with 9 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 58,
+    "latitude": 36.10628571428572,
+    "longitude": -86.79520408163266,
+    "radius_meters": 655.5619053769577,
+    "total_incidents": 49,
+    "high_risk_count": 8,
+    "medium_risk_count": 5,
+    "low_risk_count": 36,
+    "total_risk_score": 70.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 13,
+      "BURGLARY - RESIDENCE": 6,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5,
+      "BUSINESS CHECK": 2,
+      "SAFETY HAZARD": 2
+    },
+    "explanation": "This area has a medium crime risk with 8 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, vehicle accident property damage. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 67,
+    "latitude": 36.078,
+    "longitude": -86.96200000000005,
+    "radius_meters": 3.831368308393879e-09,
+    "total_incidents": 52,
+    "high_risk_count": 4,
+    "medium_risk_count": 10,
+    "low_risk_count": 38,
+    "total_risk_score": 70.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 21,
+      "COMMUNITY POLICING ACTIVITY": 7,
+      "BUSINESS CHECK": 4,
+      "DISORDERLY PERSON": 4,
+      "BURGLARY - NON-RESIDENCE": 4
+    },
+    "explanation": "This area has a medium crime risk with 4 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, business check. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 74,
+    "latitude": 36.22655172413793,
+    "longitude": -86.7906551724138,
+    "radius_meters": 405.1259797580868,
+    "total_incidents": 29,
+    "high_risk_count": 20,
+    "medium_risk_count": 1,
+    "low_risk_count": 8,
+    "total_risk_score": 70.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - NON-RESIDENCE": 18,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 7,
+      "HOLDUP / ROBBERY": 1,
+      "MISSING PERSON": 1,
+      "SHOTS FIRED": 1
+    },
+    "explanation": "This area has a high crime risk with 20 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: burglary non-residence, want officer for investigation / assista, holdup / robbery. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 77,
+    "latitude": 36.28323404255318,
+    "longitude": -86.71706382978724,
+    "radius_meters": 452.48257436295734,
+    "total_incidents": 47,
+    "high_risk_count": 6,
+    "medium_risk_count": 11,
+    "low_risk_count": 30,
+    "total_risk_score": 70.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 17,
+      "THEFT": 6,
+      "TRAFFIC VIOLATION": 5,
+      "BURGLARY - RESIDENCE": 4,
+      "SAFETY HAZARD": 3
+    },
+    "explanation": "This area has a high crime risk with 6 high-risk incidents, 11 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, traffic violation. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 78,
+    "latitude": 36.20928260869565,
+    "longitude": -86.6319347826087,
+    "radius_meters": 476.24030837390353,
+    "total_incidents": 46,
+    "high_risk_count": 9,
+    "medium_risk_count": 6,
+    "low_risk_count": 31,
+    "total_risk_score": 70.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 20,
+      "BURGLARY - RESIDENCE": 6,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5,
+      "SAFETY HAZARD": 4,
+      "THEFT": 4
+    },
+    "explanation": "This area has a high crime risk with 9 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 93,
+    "latitude": 36.25707692307692,
+    "longitude": -86.78695384615385,
+    "radius_meters": 564.5432583289413,
+    "total_incidents": 65,
+    "high_risk_count": 0,
+    "medium_risk_count": 4,
+    "low_risk_count": 61,
+    "total_risk_score": 69.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 18,
+      "TRAFFIC VIOLATION": 15,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a low crime risk with 4 medium-risk incidents recorded. Most common incidents include: safety hazard, traffic violation, vehicle accident personal injury. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 96,
+    "latitude": 36.16233870967743,
+    "longitude": -86.61974193548387,
+    "radius_meters": 556.5405685553513,
+    "total_incidents": 62,
+    "high_risk_count": 2,
+    "medium_risk_count": 3,
+    "low_risk_count": 57,
+    "total_risk_score": 69.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 22,
+      "SAFETY HAZARD": 19,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 3
+    },
+    "explanation": "This area has a low crime risk with 2 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 76,
+    "latitude": 36.16849090909091,
+    "longitude": -86.5797090909091,
+    "radius_meters": 433.09968623780225,
+    "total_incidents": 55,
+    "high_risk_count": 2,
+    "medium_risk_count": 9,
+    "low_risk_count": 44,
+    "total_risk_score": 68.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "SAFETY HAZARD": 16,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 9,
+      "TRAFFIC VIOLATION": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6
+    },
+    "explanation": "This area has a medium crime risk with 2 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident personal injury, traffic violation. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 42,
+    "latitude": 36.32600000000001,
+    "longitude": -86.88606451612903,
+    "radius_meters": 582.3865527032025,
+    "total_incidents": 62,
+    "high_risk_count": 2,
+    "medium_risk_count": 1,
+    "low_risk_count": 59,
+    "total_risk_score": 67.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 32,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 8,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "TRAFFIC VIOLATION": 5,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 5
+    },
+    "explanation": "This area has a low crime risk with 2 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident personal injury, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 11,
+    "latitude": 36.19560416666666,
+    "longitude": -86.67308333333334,
+    "radius_meters": 554.4520232160122,
+    "total_incidents": 48,
+    "high_risk_count": 3,
+    "medium_risk_count": 12,
+    "low_risk_count": 33,
+    "total_risk_score": 66.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 20,
+      "DISORDERLY PERSON": 6,
+      "COMMUNITY POLICING ACTIVITY": 6,
+      "INVESTIGATE 911 HANG-UP CALL": 3,
+      "THEFT": 2
+    },
+    "explanation": "This area has a high crime risk with 3 high-risk incidents, 12 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, disorderly person, community policing activity. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 75,
+    "latitude": 36.114999999999995,
+    "longitude": -86.70851351351351,
+    "radius_meters": 402.81290234024453,
+    "total_incidents": 37,
+    "high_risk_count": 10,
+    "medium_risk_count": 9,
+    "low_risk_count": 18,
+    "total_risk_score": 66.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 11,
+      "BURGLARY - RESIDENCE": 8,
+      "SUSPICIOUS PERSON": 4,
+      "THEFT": 3,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 2
+    },
+    "explanation": "This area has a high crime risk with 10 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, suspicious person. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 100,
+    "latitude": 36.31972307692308,
+    "longitude": -86.8446923076923,
+    "radius_meters": 340.4352778580171,
+    "total_incidents": 65,
+    "high_risk_count": 0,
+    "medium_risk_count": 1,
+    "low_risk_count": 64,
+    "total_risk_score": 66.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 41,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 10,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 5,
+      "DANGEROUS / INJURED ANIMAL": 3,
+      "TRAFFIC VIOLATION": 3
+    },
+    "explanation": "This area has a low crime risk with 1 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, vehicle accident personal injury. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 40,
+    "latitude": 36.07771052631579,
+    "longitude": -86.74360526315787,
+    "radius_meters": 465.35088447444053,
+    "total_incidents": 38,
+    "high_risk_count": 7,
+    "medium_risk_count": 7,
+    "low_risk_count": 24,
+    "total_risk_score": 59.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 11,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5,
+      "SAFETY HAZARD": 4,
+      "THEFT": 4,
+      "BURGLARY - RESIDENCE": 3
+    },
+    "explanation": "This area has a high crime risk with 7 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, vehicle accident property damage, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 112,
+    "latitude": 36.07769090909091,
+    "longitude": -86.99354545454547,
+    "radius_meters": 581.0853856662744,
+    "total_incidents": 55,
+    "high_risk_count": 2,
+    "medium_risk_count": 0,
+    "low_risk_count": 53,
+    "total_risk_score": 59.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 17,
+      "TRAFFIC VIOLATION": 13,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a low crime risk with 2 high-risk incidents recorded. Most common incidents include: safety hazard, traffic violation, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 119,
+    "latitude": 36.029,
+    "longitude": -86.63649090909087,
+    "radius_meters": 45.780250879805365,
+    "total_incidents": 55,
+    "high_risk_count": 0,
+    "medium_risk_count": 2,
+    "low_risk_count": 53,
+    "total_risk_score": 57.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 14,
+      "TRAFFIC VIOLATION": 13,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 10,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 2
+    },
+    "explanation": "This area has a low crime risk with 2 medium-risk incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 120,
+    "latitude": 36.26155263157894,
+    "longitude": -86.89210526315786,
+    "radius_meters": 512.5467791400849,
+    "total_incidents": 38,
+    "high_risk_count": 7,
+    "medium_risk_count": 5,
+    "low_risk_count": 26,
+    "total_risk_score": 57.0,
+    "severity": "High",
+    "top_incidents": {
+      "COMMUNITY POLICING ACTIVITY": 13,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "BURGLARY - NON-RESIDENCE": 5,
+      "SUSPICIOUS PERSON": 3,
+      "SAFETY HAZARD": 2
+    },
+    "explanation": "This area has a high crime risk with 7 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: community policing activity, want officer for investigation / assista, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 87,
+    "latitude": 36.114846153846166,
+    "longitude": -86.86325641025638,
+    "radius_meters": 493.6034463327218,
+    "total_incidents": 39,
+    "high_risk_count": 6,
+    "medium_risk_count": 3,
+    "low_risk_count": 30,
+    "total_risk_score": 54.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 25,
+      "BURGLARY - RESIDENCE": 6,
+      "TRAFFIC VIOLATION": 5,
+      "INVESTIGATE 911 HANG-UP CALL": 3
+    },
+    "explanation": "This area has a medium crime risk with 6 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, traffic violation. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 55,
+    "latitude": 36.04290243902439,
+    "longitude": -86.9509756097561,
+    "radius_meters": 344.4400459884528,
+    "total_incidents": 41,
+    "high_risk_count": 1,
+    "medium_risk_count": 10,
+    "low_risk_count": 30,
+    "total_risk_score": 53.0,
+    "severity": "Medium",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 22,
+      "INVESTIGATE 911 HANG-UP CALL": 9,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 1,
+      "BURGLARY - RESIDENCE": 1
+    },
+    "explanation": "This area has a medium crime risk with 1 high-risk incidents, 10 medium-risk incidents recorded. Most common incidents include: traffic violation, investigate 911 hang-up call, vehicle accident property damage. Exercise caution when visiting this area. Stay aware of your surroundings and avoid isolated locations."
+  },
+  {
+    "id": 105,
+    "latitude": 36.11823999999999,
+    "longitude": -86.66712,
+    "radius_meters": 349.5360147501724,
+    "total_incidents": 50,
+    "high_risk_count": 1,
+    "medium_risk_count": 1,
+    "low_risk_count": 48,
+    "total_risk_score": 53.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 25,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 7,
+      "SAFETY HAZARD": 7,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3
+    },
+    "explanation": "This area has a low crime risk with 1 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: traffic violation, vehicle accident personal injury, safety hazard. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 26,
+    "latitude": 36.236166666666676,
+    "longitude": -86.66656666666667,
+    "radius_meters": 248.14901064956354,
+    "total_incidents": 30,
+    "high_risk_count": 6,
+    "medium_risk_count": 9,
+    "low_risk_count": 15,
+    "total_risk_score": 51.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 9,
+      "BURGLARY - RESIDENCE": 5,
+      "THEFT": 5,
+      "MENTALLY ILL PERSON": 3,
+      "SAFETY HAZARD": 2
+    },
+    "explanation": "This area has a high crime risk with 6 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, burglary residence, theft. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 95,
+    "latitude": 36.142,
+    "longitude": -86.681,
+    "radius_meters": 0.0,
+    "total_incidents": 49,
+    "high_risk_count": 0,
+    "medium_risk_count": 1,
+    "low_risk_count": 48,
+    "total_risk_score": 50.0,
+    "severity": "Low",
+    "top_incidents": {
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 13,
+      "SAFETY HAZARD": 12,
+      "TRAFFIC VIOLATION": 10,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 9,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 2
+    },
+    "explanation": "This area has a low crime risk with 1 medium-risk incidents recorded. Most common incidents include: vehicle accident property damage, safety hazard, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 47,
+    "latitude": 36.225925000000004,
+    "longitude": -86.6027,
+    "radius_meters": 438.2064123428854,
+    "total_incidents": 40,
+    "high_risk_count": 4,
+    "medium_risk_count": 1,
+    "low_risk_count": 35,
+    "total_risk_score": 49.0,
+    "severity": "Low",
+    "top_incidents": {
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 5,
+      "SAFETY HAZARD": 2,
+      "SHOTS FIRED": 2,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 2,
+      "CORPSE / D. O. A.": 1
+    },
+    "explanation": "This area has a low crime risk with 4 high-risk incidents, 1 medium-risk incidents recorded. Most common incidents include: vehicle accident property damage, safety hazard, shots fired. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 94,
+    "latitude": 36.142,
+    "longitude": -86.67600000000002,
+    "radius_meters": 1.2760825464187784e-09,
+    "total_incidents": 49,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 49,
+    "total_risk_score": 49.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 17,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 14,
+      "SAFETY HAZARD": 10,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 6,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 2
+    },
+    "explanation": "This area has a low crime risk with 49 total incidents recorded. Most common incidents include: traffic violation, vehicle accident property damage, safety hazard. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 90,
+    "latitude": 36.158,
+    "longitude": -86.58568749999999,
+    "radius_meters": 353.7853906101561,
+    "total_incidents": 32,
+    "high_risk_count": 5,
+    "medium_risk_count": 6,
+    "low_risk_count": 21,
+    "total_risk_score": 48.0,
+    "severity": "High",
+    "top_incidents": {
+      "SAFETY HAZARD": 5,
+      "BURGLARY - RESIDENCE": 5,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 5,
+      "TRAFFIC VIOLATION": 4,
+      "DANGEROUS / INJURED ANIMAL": 3
+    },
+    "explanation": "This area has a high crime risk with 5 high-risk incidents, 6 medium-risk incidents recorded. Most common incidents include: safety hazard, burglary residence, want officer for investigation / assista. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 122,
+    "latitude": 36.187875,
+    "longitude": -86.86290625000001,
+    "radius_meters": 361.0812879055051,
+    "total_incidents": 32,
+    "high_risk_count": 5,
+    "medium_risk_count": 5,
+    "low_risk_count": 22,
+    "total_risk_score": 47.0,
+    "severity": "High",
+    "top_incidents": {
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 8,
+      "SAFETY HAZARD": 6,
+      "BURGLARY - NON-RESIDENCE": 4,
+      "TRAFFIC VIOLATION": 4,
+      "DISORDERLY PERSON": 2
+    },
+    "explanation": "This area has a high crime risk with 5 high-risk incidents, 5 medium-risk incidents recorded. Most common incidents include: vehicle accident property damage, safety hazard, burglary non-residence. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 126,
+    "latitude": 36.035066666666665,
+    "longitude": -86.61286666666665,
+    "radius_meters": 391.25213820838053,
+    "total_incidents": 30,
+    "high_risk_count": 7,
+    "medium_risk_count": 3,
+    "low_risk_count": 20,
+    "total_risk_score": 47.0,
+    "severity": "High",
+    "top_incidents": {
+      "BURGLARY - RESIDENCE": 5,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 5,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 4,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 2,
+      "SUSPICIOUS PERSON": 2
+    },
+    "explanation": "This area has a high crime risk with 7 high-risk incidents, 3 medium-risk incidents recorded. Most common incidents include: burglary residence, want officer for investigation / assista, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 111,
+    "latitude": 36.17986666666667,
+    "longitude": -86.69562222222223,
+    "radius_meters": 214.94566644781133,
+    "total_incidents": 45,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 45,
+    "total_risk_score": 45.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 28,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 7,
+      "SAFETY HAZARD": 7,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3
+    },
+    "explanation": "This area has a low crime risk with 45 total incidents recorded. Most common incidents include: traffic violation, vehicle accident personal injury, safety hazard. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 129,
+    "latitude": 36.029999999999994,
+    "longitude": -86.998,
+    "radius_meters": 7.900874738066843e-10,
+    "total_incidents": 37,
+    "high_risk_count": 4,
+    "medium_risk_count": 0,
+    "low_risk_count": 33,
+    "total_risk_score": 45.0,
+    "severity": "Low",
+    "top_incidents": {
+      "BUSINESS CHECK": 33,
+      "BURGLARY - NON-RESIDENCE": 3,
+      "SHOTS FIRED": 1
+    },
+    "explanation": "This area has a low crime risk with 4 high-risk incidents recorded. Most common incidents include: business check, burglary non-residence, shots fired. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 125,
+    "latitude": 36.13551515151515,
+    "longitude": -86.668,
+    "radius_meters": 57.28223493821193,
+    "total_incidents": 33,
+    "high_risk_count": 1,
+    "medium_risk_count": 9,
+    "low_risk_count": 23,
+    "total_risk_score": 44.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "INVESTIGATE 911 HANG-UP CALL": 5,
+      "THEFT": 4,
+      "VEHICLE BLOCKING RIGHT OF WAY": 2
+    },
+    "explanation": "This area has a high crime risk with 1 high-risk incidents, 9 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, vehicle accident property damage, investigate 911 hang-up call. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 123,
+    "latitude": 36.2373448275862,
+    "longitude": -86.81189655172412,
+    "radius_meters": 340.7335987299537,
+    "total_incidents": 29,
+    "high_risk_count": 3,
+    "medium_risk_count": 7,
+    "low_risk_count": 19,
+    "total_risk_score": 42.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8,
+      "INVESTIGATE 911 HANG-UP CALL": 5,
+      "SAFETY HAZARD": 4,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "BURGLARY - RESIDENCE": 3
+    },
+    "explanation": "This area has a high crime risk with 3 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 88,
+    "latitude": 36.28139999999999,
+    "longitude": -86.6636,
+    "radius_meters": 85.69494064639805,
+    "total_incidents": 35,
+    "high_risk_count": 1,
+    "medium_risk_count": 2,
+    "low_risk_count": 32,
+    "total_risk_score": 39.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 6,
+      "THEFT": 2,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 1,
+      "FIGHT / ASSAULT": 1
+    },
+    "explanation": "This area has a low crime risk with 1 high-risk incidents, 2 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, theft, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 113,
+    "latitude": 36.30899999999999,
+    "longitude": -86.82400000000001,
+    "radius_meters": 1.498561223079695e-09,
+    "total_incidents": 39,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 39,
+    "total_risk_score": 39.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 22,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 10,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 4,
+      "TRAFFIC VIOLATION": 3
+    },
+    "explanation": "This area has a low crime risk with 39 total incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, vehicle accident personal injury. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 72,
+    "latitude": 36.23748,
+    "longitude": -86.67124000000001,
+    "radius_meters": 397.29664524480523,
+    "total_incidents": 25,
+    "high_risk_count": 3,
+    "medium_risk_count": 7,
+    "low_risk_count": 15,
+    "total_risk_score": 38.0,
+    "severity": "High",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 8,
+      "INVESTIGATE 911 HANG-UP CALL": 4,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 3,
+      "BURGLARY - RESIDENCE": 2,
+      "SAFETY HAZARD": 1
+    },
+    "explanation": "This area has a high crime risk with 3 high-risk incidents, 7 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, investigate 911 hang-up call, vehicle accident property damage. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  },
+  {
+    "id": 82,
+    "latitude": 36.10458333333333,
+    "longitude": -86.8007777777778,
+    "radius_meters": 534.0846980644062,
+    "total_incidents": 36,
+    "high_risk_count": 0,
+    "medium_risk_count": 1,
+    "low_risk_count": 35,
+    "total_risk_score": 37.0,
+    "severity": "Low",
+    "top_incidents": {
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 11,
+      "COMMUNITY POLICING ACTIVITY": 5,
+      "SAFETY HAZARD": 2,
+      "MISSING PERSON": 2,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 2
+    },
+    "explanation": "This area has a low crime risk with 1 medium-risk incidents recorded. Most common incidents include: want officer for investigation / assista, community policing activity, safety hazard. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 109,
+    "latitude": 36.33045945945945,
+    "longitude": -86.89924324324322,
+    "radius_meters": 413.30712565164265,
+    "total_incidents": 37,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 37,
+    "total_risk_score": 37.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 20,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 7,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 5,
+      "TRAFFIC VIOLATION": 3,
+      "DANGEROUS / INJURED ANIMAL": 2
+    },
+    "explanation": "This area has a low crime risk with 37 total incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, vehicle accident personal injury. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 110,
+    "latitude": 36.314729729729734,
+    "longitude": -86.83175675675673,
+    "radius_meters": 248.53492401298195,
+    "total_incidents": 37,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 37,
+    "total_risk_score": 37.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 13,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 9,
+      "TRAFFIC VIOLATION": 7,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 7,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 1
+    },
+    "explanation": "This area has a low crime risk with 37 total incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 106,
+    "latitude": 36.28464705882354,
+    "longitude": -86.80732352941175,
+    "radius_meters": 162.19945279842787,
+    "total_incidents": 34,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 34,
+    "total_risk_score": 34.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 9,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 8,
+      "TRAFFIC VIOLATION": 7,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 6,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 4
+    },
+    "explanation": "This area has a low crime risk with 34 total incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, traffic violation. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 115,
+    "latitude": 36.291,
+    "longitude": -86.722,
+    "radius_meters": 0.0,
+    "total_incidents": 33,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 33,
+    "total_risk_score": 33.0,
+    "severity": "Low",
+    "top_incidents": {
+      "TRAFFIC VIOLATION": 17,
+      "SAFETY HAZARD": 6,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 3,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 1
+    },
+    "explanation": "This area has a low crime risk with 33 total incidents recorded. Most common incidents include: traffic violation, safety hazard, vehicle accident property damage. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 104,
+    "latitude": 36.318999999999996,
+    "longitude": -86.837,
+    "radius_meters": 7.900874738066843e-10,
+    "total_incidents": 30,
+    "high_risk_count": 0,
+    "medium_risk_count": 0,
+    "low_risk_count": 30,
+    "total_risk_score": 30.0,
+    "severity": "Low",
+    "top_incidents": {
+      "SAFETY HAZARD": 14,
+      "VEHICLE ACCIDENT - PROPERTY DAMAGE": 6,
+      "VEHICLE ACCIDENT - PERSONAL INJURY": 6,
+      "DANGEROUS / INJURED ANIMAL": 1,
+      "TRAFFIC VIOLATION": 1
+    },
+    "explanation": "This area has a low crime risk with 30 total incidents recorded. Most common incidents include: safety hazard, vehicle accident property damage, vehicle accident personal injury. While generally safe, be mindful of your surroundings and follow standard safety precautions."
+  },
+  {
+    "id": 124,
+    "latitude": 36.06406666666667,
+    "longitude": -86.60353333333335,
+    "radius_meters": 227.83052611842876,
+    "total_incidents": 15,
+    "high_risk_count": 2,
+    "medium_risk_count": 4,
+    "low_risk_count": 9,
+    "total_risk_score": 23.0,
+    "severity": "High",
+    "top_incidents": {
+      "THEFT": 3,
+      "WANT OFFICER FOR INVESTIGATION / ASSISTA": 3,
+      "SAFETY HAZARD": 2,
+      "SHOTS FIRED": 2,
+      "MISSING PERSON": 2
+    },
+    "explanation": "This area has a high crime risk with 2 high-risk incidents, 4 medium-risk incidents recorded. Most common incidents include: theft, want officer for investigation / assista, safety hazard. It is strongly recommended to avoid this area, especially at night. If you must travel through, stay alert and consider using well-lit routes."
+  }
+]
