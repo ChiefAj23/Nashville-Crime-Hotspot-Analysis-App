@@ -620,3 +620,12 @@ Big thanks to:
 *Stay Safe, Stay Informed, Stay Smart*
 
 *And remember - Music City is a great place, but like any city, it pays to be aware of your surroundings!*
+
+
+---
+
+## Author
+
+**Abhijeet Solanki** - AI Engineer (Edge AI + GenAI), 11 peer-reviewed IEEE publications on robust perception and edge AI.
+
+[Portfolio](https://www.abhijeetsolanki.com/) | [LinkedIn](https://www.linkedin.com/in/abhijeet-solanki) | [GitHub](https://github.com/ChiefAj23)
